@@ -33,5 +33,11 @@
     <ClCompile Include="2.4_Choosing_threads_number%40runtime.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.5_Identifying_threads.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2_Protecting_shared_data_with_mutexes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

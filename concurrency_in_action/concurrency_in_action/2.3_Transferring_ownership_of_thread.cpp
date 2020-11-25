@@ -66,7 +66,7 @@ void f_2_3()
 
 }
 
-int main() {
+int main_2_3() {
 	f_2_3();
 
 	return 0;

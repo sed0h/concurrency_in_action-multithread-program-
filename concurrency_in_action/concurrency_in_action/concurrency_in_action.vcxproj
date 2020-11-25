@@ -145,6 +145,8 @@
     <ClCompile Include="2.2_Passing_arguments2_thread_function.cpp" />
     <ClCompile Include="2.3_Transferring_ownership_of_thread.cpp" />
     <ClCompile Include="2.4_Choosing_threads_number%40runtime.cpp" />
+    <ClCompile Include="2.5_Identifying_threads.cpp" />
+    <ClCompile Include="3.2_Protecting_shared_data_with_mutexes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
